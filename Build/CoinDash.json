@@ -1,7 +1,7 @@
 {
-"companyName": "Ragendom",
-"productName": "DashValley",
-"productVersion": "1",
+"companyName": "1HP Games",
+"productName": "CoinDash",
+"productVersion": "0.1",
 "dataUrl": "CoinDash.data.unityweb",
 "wasmCodeUrl": "CoinDash.wasm.code.unityweb",
 "wasmFrameworkUrl": "CoinDash.wasm.framework.unityweb",
